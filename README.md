@@ -8,7 +8,7 @@
 <td><a href="https://discord.gg/qSg3EsAWrJ"><img src="https://logos-download.com/wp-content/uploads/2021/01/Discord_Logo-1.png" width=200px height=50px></a></td>
 </tr>
 <tr>
-<td><a href="https://www.instagram.com/burak_b_06/"><img src="https://i2.wp.com/mrvsdaily.com/wp-content/uploads/2018/02/new-instagram-text-logo.png?fit=1000%2C259&ssl=1" width=200px height=50px></a></td>
+<td><a href="https://www.instagram.com/burak_b_06/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width=200px height=50px></a></td>
 <td><a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Twitter_logo.svg/2560px-Twitter_logo.svg.png" width=200px height=50px></a></td>
 <td><a href="https://github.com/programmer-turk"><img src="https://thycotic.com/wp-content/uploads/2021/03/github-logo.png?x27613" width=200px height=50px></a></td>
 </tr>
